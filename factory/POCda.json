@@ -1,0 +1,9 @@
+{
+	"name": "POCda",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc50ecdd-9487-4454-beaf-f908c7ef2508",
+		"tenantId": "dc59a6e6-2fdc-429c-b599-24312abb80ee"
+	}
+}
