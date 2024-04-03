@@ -1,0 +1,9 @@
+{
+	"name": "theretailinsightsdemos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c9a8b6a-5153-43c0-9428-a49d6c3d0db5",
+		"tenantId": "1f86e40b-095d-493b-8446-985f42374515"
+	}
+}
