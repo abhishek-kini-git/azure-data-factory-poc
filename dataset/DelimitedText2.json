@@ -10,12 +10,13 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "sample_order.csv",
 				"container": "datademos"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "\"",
 			"escapeChar": "\\",
-			"firstRowAsHeader": true,
-			"quoteChar": "\""
+			"firstRowAsHeader": false,
+			"quoteChar": null
 		},
 		"schema": []
 	}
