@@ -12,7 +12,7 @@
 				"type": "AzureBlobStorageLocation",
 				"container": "datademos"
 			},
-			"columnDelimiter": "\"",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": false,
 			"quoteChar": null
